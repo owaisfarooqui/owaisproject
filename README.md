@@ -1,2 +1,2 @@
 # owaisproject
-simple project 
+simple project in Laravel for practice
